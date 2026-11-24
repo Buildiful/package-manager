@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Parcel icon">
+  <rect width="512" height="512" rx="112" fill="#fff1c7"/>
+  <circle cx="405" cy="114" r="46" fill="#f9c6b5"/>
+  <circle cx="112" cy="399" r="33" fill="#c4e8de"/>
+  <path d="M111 180 255 100l146 80v151l-146 82-144-82Z" fill="#ffe0b2" stroke="#173954" stroke-width="15" stroke-linejoin="round"/>
+  <path d="M112 181 255 262l146-82M255 262v151" fill="none" stroke="#173954" stroke-width="15" stroke-linejoin="round"/>
+  <path d="m184 140 144 81v72l-46-28v-70l-144-79" fill="#c4e8de" stroke="#173954" stroke-width="11" stroke-linejoin="round"/>
+  <path d="m151 308 45 25M151 331l31 17" stroke="#d9896f" stroke-width="12" stroke-linecap="round"/>
+</svg>
